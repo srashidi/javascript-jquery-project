@@ -1,0 +1,29 @@
+#wrapper {
+	margin:20px;
+    padding:20px;
+}
+
+#grid {
+	height:600px;
+	width: 600px;
+	font-size: 0;
+}
+
+#change {
+	border-radius: 2px;
+	background-color: #eee;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	float: right;
+}
+
+.square {
+	height:30px;
+	width: 30px;
+	border: 1px solid #aaa;
+	display: inline-block;
+}
+
+.shade{
+	background-color: black;
+}
